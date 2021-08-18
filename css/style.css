@@ -391,10 +391,10 @@ h6 {
     content: '';
     top: 50px !important;
     left: 50px;
-    width:15vh;
-    height: 15vh;
+    width:10vh;
+    height: 10vh;
     z-index: -1;
-    border: 2vh solid #790FF1;
+    border: 1vh solid #790FF1;
     border-radius: 50%;
     animation-name: circle-2;
     animation-duration: 5s;
@@ -405,10 +405,10 @@ h6 {
     position: absolute;
     top: 20px !important;
     right: 50px;
-    width: 15vh;
-    height: 15vh;
+    width: 10vh;
+    height: 10vh;
     z-index: -1;
-    border: 2vh solid #790FF1;
+    border: 1vh solid #790FF1;
     border-radius: 50%;
     animation-name: circle-3;
     animation-duration: 5s;
